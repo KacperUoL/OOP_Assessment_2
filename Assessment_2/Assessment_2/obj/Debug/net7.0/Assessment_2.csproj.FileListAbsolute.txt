@@ -1,0 +1,14 @@
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\bin\Debug\net7.0\Assessment_2.exe
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\bin\Debug\net7.0\Assessment_2.deps.json
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\bin\Debug\net7.0\Assessment_2.runtimeconfig.json
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\bin\Debug\net7.0\Assessment_2.dll
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\bin\Debug\net7.0\Assessment_2.pdb
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.AssemblyInfoInputs.cache
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.AssemblyInfo.cs
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.dll
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\refint\Assessment_2.dll
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.pdb
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\Assessment_2.genruntimeconfig.cache
+C:\Users\kacpe\Desktop\Assessment_2\Assessment_2\obj\Debug\net7.0\ref\Assessment_2.dll

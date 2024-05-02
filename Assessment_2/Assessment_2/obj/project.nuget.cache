@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHhnyQKqPokFDWdE+LaK/WwZb/FGzZYC1c+WP1tDqyWkzw4O78nQYwochW5gofUBSfjP1HvcBMUbp7rzI2AWHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kacpe\\Desktop\\Assessment_2\\Assessment_2\\Assessment_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
